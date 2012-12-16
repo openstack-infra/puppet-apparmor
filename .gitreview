@@ -1,4 +1,4 @@
 [gerrit]
 host=review.openstack.org
 port=29418
-project=openstack-ci/puppet-apparmor.git
+project=openstack-infra/puppet-apparmor.git
