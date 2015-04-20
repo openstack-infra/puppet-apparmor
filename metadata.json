@@ -1,5 +1,5 @@
 {
-  "name": "openstackci-apparmor",
+  "name": "openstackinfra-apparmor",
   "version": "0.0.2",
   "author": "Openstack CI",
   "summary": "Puppet module for apparmor",
