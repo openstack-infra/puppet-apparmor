@@ -1,0 +1,10 @@
+Verified+2: Jenkins
+Code-Review+1: Paul Belanger <pabelanger@redhat.com>
+Code-Review+2: yolanda.robla <info@ysoft.biz>
+Code-Review+2: Spencer Krum <nibz@spencerkrum.com>
+Workflow+1: Spencer Krum <nibz@spencerkrum.com>
+Submitted-by: Jenkins
+Submitted-at: Fri, 24 Jul 2015 16:12:59 +0000
+Reviewed-on: https://review.openstack.org/204345
+Project: openstack-infra/puppet-apparmor
+Branch: refs/heads/master
