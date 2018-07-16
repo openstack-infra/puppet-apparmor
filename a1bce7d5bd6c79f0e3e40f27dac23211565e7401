@@ -1,0 +1,8 @@
+Code-Review+2: Clark Boylan <cboylan@sapwetik.org>
+Workflow+1: Clark Boylan <cboylan@sapwetik.org>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 16 Jul 2018 19:02:58 +0000
+Reviewed-on: https://review.openstack.org/582003
+Project: openstack-infra/puppet-apparmor
+Branch: refs/heads/master
