@@ -1,4 +1,3 @@
-apparmor
---------
+# This repo has moved to OpenDev
 
-This is the apparmor module. It simply manages the apparmor service.
+It can now be found at [https://opendev.org/opendev/puppet-apparmor](https://opendev.org/opendev/puppet-apparmor)
